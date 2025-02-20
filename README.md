@@ -20,3 +20,8 @@
 	<img height="180em" src = "https://github-readme-stats.vercel.app/api/pin/?username=EduMarsola&repo=StockSell&theme=catppuccin_mocha"/>
 </div>
 
+<div>
+	<a href="https://github.com/EduMarsola/SpringMenu"/>
+	<img height="180em" src = "https://github-readme-stats.vercel.app/api/pin/?username=EduMarsola&repo=SpringMenu&theme=catppuccin_mocha"/>
+</div>
+
